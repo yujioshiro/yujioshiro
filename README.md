@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello, welcome to Yuji Oshiro's GitHub!
+
+### I am a second year Computer Science student at Irvine Valley College. I plan to get my Associate's in CS and transfer to a 4-year university in California.
+
+- I am most comfortable in JS, but am currently learning Python, C++, and Java.
+- I have built websites, Android applications, have written code for Arduinos
+- I love all things tech, so feel free to reach out if you want to talk tech or collaborate on projects!
+
+
 
 <!--
 **yujioshiro/yujioshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
