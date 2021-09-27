@@ -1,9 +1,7 @@
 ## Hello! I'm Yuji Oshiro
 
 I am a second year Computer Science student at Irvine Valley College. I plan to get my Associate's in CS and transfer to a 4-year university in California.
-
-#### My GitHub stats at a glance:
-<img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=yujioshiro&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujioshiro&layout=compact" />
 
 - I am most comfortable in JS, but am currently learning Python, C++, and Java.
 - I have built websites, Android applications, have written code for Arduinos
