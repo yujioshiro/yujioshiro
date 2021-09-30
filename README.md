@@ -1,3 +1,4 @@
+<!--
 ## Hello! I'm Yuji Oshiro
 
 I am a second year Computer Science student at Irvine Valley College. I plan to get my Associate's in CS and transfer to a 4-year university in California.
@@ -10,7 +11,7 @@ I am a second year Computer Science student at Irvine Valley College. I plan to 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=${yujioshiro}.${yujioshiro})
 
 
-<!--
+
 **yujioshiro/yujioshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
