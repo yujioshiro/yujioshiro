@@ -3,7 +3,7 @@
 
 **Currently looking for software development internships for Summer 2022.**
 
-Resume: [yujioshiro.com](www.yujioshiro.com)
+Resume: [yujioshiro.com](https://yujioshiro.com)
 
 I am a second year Computer Science student at Irvine Valley College. I hope to transfer to a 4-year university in Fall 2022 and obtain an Associate's in CS in the meantime. 
 - I am most comfortable in JS, but am currently learning Python, C++, and Java.
