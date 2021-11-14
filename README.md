@@ -7,7 +7,7 @@ I am a second year Computer Science student at Irvine Valley College. I hope to 
 - I love all things tech, so feel free to reach out if you want to talk tech or collaborate on projects!
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=${yujioshiro}.${yujioshiro})
-<img height="100em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujioshiro&layout=compact" />
+<!-- <img height="100em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujioshiro&layout=compact" /> -->
 
 <!--
 **yujioshiro/yujioshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
