@@ -1,7 +1,7 @@
 
 ## Web Developer // CS Student // Tinkerer
 
-**Currently looking for software development internships for Summer 2022.**
+****Currently looking for software development internships for Summer 2022.**
 
 Resume: [yujioshiro.com](https://yujioshiro.com)
 
