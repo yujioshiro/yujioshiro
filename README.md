@@ -11,7 +11,7 @@ I am a second year Computer Science student at Irvine Valley College. I hope to 
 - I enjoying building and fixing things (phones, computers, household appliances, cars...), and am fascinated by lots of machinery
 - I love all things tech, so feel free to reach out if you want to discuss tech or collaborate on projects!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=${yujioshiro}.${yujioshiro})
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=${yujioshiro}.${yujioshiro}) -->
 <!-- <img height="100em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujioshiro&layout=compact" /> -->
 
 <!--
