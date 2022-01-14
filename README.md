@@ -1,8 +1,6 @@
 
 ## Web Developer // CS Student // Tinkerer
 
-****Currently looking for software development internships for Spring/Summer 2022.**
-
 [yujioshiro.com](https://yujioshiro.com)
 
 I am a second year Computer Science student at Irvine Valley College. I have applied to transfer to a 4-year university in Fall 2022 and will obtain an Associate's in CS in the meantime. 
