@@ -1,7 +1,7 @@
 
 ## Web Developer // CS Student // Tinkerer
 
-[yujioshiro.com](https://yujioshiro.com)
+[yujioshiro.com](https://yujioshiro.com) | [LinkedIn](https://www.linkedin.com/in/yujioshiro/)
 
 I am a second year Computer Science student at Irvine Valley College. I have applied to transfer to a 4-year university in Fall 2022 and will obtain an Associate's in CS in the meantime. 
 
