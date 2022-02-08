@@ -1,5 +1,5 @@
 
-## Web Developer // CS Student // Hobby Tinkerer
+## Web Developer // CS Student
 
 [yujioshiro.com](https://yujioshiro.com) | [LinkedIn](https://www.linkedin.com/in/yujioshiro/)
 
