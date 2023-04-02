@@ -2,13 +2,13 @@
 ## Web Developer // CS Student
 
 [yujioshiro.com](https://yujioshiro.com) | [LinkedIn](https://www.linkedin.com/in/yujioshiro/)
-
+<!-- 
 I am a second year Computer Science student at Irvine Valley College. I have applied to transfer to a 4-year university in Fall 2022 and will obtain an Associate's in CS before transferring.
 
 - Experience building websites, Android applications, and have no issue learning new languages, libraries, and frameworks
 - I enjoy building and fixing things (cars, computers, phones, household apppliances...) and am fascinated by all types of machinery
 - I love all things tech, so feel free to reach out if you want to discuss tech or collaborate on projects!
-
+ -->
 <!-- [![Yuji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujioshiro)](https://github.com/yujioshiro/github-readme-stats) -->
 
 
